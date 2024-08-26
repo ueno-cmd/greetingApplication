@@ -4,31 +4,40 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="d4ciYWOccWzurNr53IGO-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="d4ciYWOccWzurNr53IGO-2" target="d4ciYWOccWzurNr53IGO-7">
+        <mxCell id="d4ciYWOccWzurNr53IGO-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="d4ciYWOccWzurNr53IGO-2" target="d4ciYWOccWzurNr53IGO-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="d4ciYWOccWzurNr53IGO-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="d4ciYWOccWzurNr53IGO-2" target="d4ciYWOccWzurNr53IGO-7">
+        <mxCell id="d4ciYWOccWzurNr53IGO-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="d4ciYWOccWzurNr53IGO-2" target="d4ciYWOccWzurNr53IGO-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="d4ciYWOccWzurNr53IGO-2" value="社員番号入力" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="CB12Wec0NSiDcRl1hhvv-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="d4ciYWOccWzurNr53IGO-2" target="CB12Wec0NSiDcRl1hhvv-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="440" y="70" />
+              <mxPoint x="440" y="720" />
+              <mxPoint x="340" y="720" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d4ciYWOccWzurNr53IGO-2" value="社員番号入力" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="280" y="40" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="d4ciYWOccWzurNr53IGO-7" value="csv内検索" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="d4ciYWOccWzurNr53IGO-7" value="csv内検索" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="280" y="130" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="d4ciYWOccWzurNr53IGO-8" value="あなたは○○さんで正しいですか？" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="d4ciYWOccWzurNr53IGO-8" value="あなたは○○さんで正しいですか？" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="280" y="280" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="d4ciYWOccWzurNr53IGO-12" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="d4ciYWOccWzurNr53IGO-8">
+        <mxCell id="d4ciYWOccWzurNr53IGO-12" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" target="d4ciYWOccWzurNr53IGO-8" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="340" y="210" as="sourcePoint" />
             <mxPoint x="440" y="210" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="d4ciYWOccWzurNr53IGO-13" value="社員番号が存在する" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="d4ciYWOccWzurNr53IGO-12">
+        <mxCell id="d4ciYWOccWzurNr53IGO-13" value="社員番号が存在する" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" parent="d4ciYWOccWzurNr53IGO-12" connectable="0" vertex="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="d4ciYWOccWzurNr53IGO-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="d4ciYWOccWzurNr53IGO-17" target="d4ciYWOccWzurNr53IGO-2">
+        <mxCell id="d4ciYWOccWzurNr53IGO-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="d4ciYWOccWzurNr53IGO-17" target="d4ciYWOccWzurNr53IGO-2" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="80" y="310" />
@@ -36,10 +45,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="d4ciYWOccWzurNr53IGO-17" value="エラー、無効な社員番号です" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="d4ciYWOccWzurNr53IGO-17" value="エラー、無効な社員番号です" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="120" y="280" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="d4ciYWOccWzurNr53IGO-19" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="d4ciYWOccWzurNr53IGO-7" target="d4ciYWOccWzurNr53IGO-17">
+        <mxCell id="d4ciYWOccWzurNr53IGO-19" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="d4ciYWOccWzurNr53IGO-7" target="d4ciYWOccWzurNr53IGO-17" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="80" y="210" as="sourcePoint" />
             <mxPoint x="180" y="210" as="targetPoint" />
@@ -48,19 +57,19 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="d4ciYWOccWzurNr53IGO-20" value="社員番号が存在しない" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="d4ciYWOccWzurNr53IGO-19">
+        <mxCell id="d4ciYWOccWzurNr53IGO-20" value="社員番号が存在しない" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" parent="d4ciYWOccWzurNr53IGO-19" connectable="0" vertex="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="d4ciYWOccWzurNr53IGO-21" value="メッセージボックス操作" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="d4ciYWOccWzurNr53IGO-21" value="メッセージボックス操作" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="280" y="410" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="d4ciYWOccWzurNr53IGO-23" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="d4ciYWOccWzurNr53IGO-8" target="d4ciYWOccWzurNr53IGO-21">
+        <mxCell id="d4ciYWOccWzurNr53IGO-23" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="d4ciYWOccWzurNr53IGO-8" target="d4ciYWOccWzurNr53IGO-21" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="360" y="370" as="sourcePoint" />
             <mxPoint x="460" y="370" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="d4ciYWOccWzurNr53IGO-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="d4ciYWOccWzurNr53IGO-28" target="d4ciYWOccWzurNr53IGO-2">
+        <mxCell id="d4ciYWOccWzurNr53IGO-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="d4ciYWOccWzurNr53IGO-28" target="d4ciYWOccWzurNr53IGO-2" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="70" y="450" />
@@ -68,10 +77,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="d4ciYWOccWzurNr53IGO-28" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="d4ciYWOccWzurNr53IGO-28" value="操作がキャンセルされました" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="80" y="420" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="d4ciYWOccWzurNr53IGO-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="d4ciYWOccWzurNr53IGO-30" target="d4ciYWOccWzurNr53IGO-2">
+        <mxCell id="d4ciYWOccWzurNr53IGO-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="d4ciYWOccWzurNr53IGO-30" target="d4ciYWOccWzurNr53IGO-2" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="60" y="670" />
@@ -79,32 +88,35 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="d4ciYWOccWzurNr53IGO-30" value="登録完了&lt;br&gt;ようこそ○○さん" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="d4ciYWOccWzurNr53IGO-30" value="登録完了&lt;br&gt;ようこそ○○さん" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="280" y="640" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="d4ciYWOccWzurNr53IGO-33" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="d4ciYWOccWzurNr53IGO-21" target="d4ciYWOccWzurNr53IGO-28">
+        <mxCell id="d4ciYWOccWzurNr53IGO-33" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="d4ciYWOccWzurNr53IGO-21" target="d4ciYWOccWzurNr53IGO-28" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="360" y="470" as="sourcePoint" />
             <mxPoint x="460" y="470" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="d4ciYWOccWzurNr53IGO-34" value="いいえ" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="d4ciYWOccWzurNr53IGO-33">
+        <mxCell id="d4ciYWOccWzurNr53IGO-34" value="いいえ" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" parent="d4ciYWOccWzurNr53IGO-33" connectable="0" vertex="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="d4ciYWOccWzurNr53IGO-35" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="d4ciYWOccWzurNr53IGO-39">
+        <mxCell id="d4ciYWOccWzurNr53IGO-35" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" target="d4ciYWOccWzurNr53IGO-39" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="339.5" y="490" as="sourcePoint" />
             <mxPoint x="339.5" y="580" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="d4ciYWOccWzurNr53IGO-36" value="はい" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="d4ciYWOccWzurNr53IGO-35">
+        <mxCell id="d4ciYWOccWzurNr53IGO-36" value="はい" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" parent="d4ciYWOccWzurNr53IGO-35" connectable="0" vertex="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="d4ciYWOccWzurNr53IGO-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="d4ciYWOccWzurNr53IGO-39" target="d4ciYWOccWzurNr53IGO-30">
+        <mxCell id="d4ciYWOccWzurNr53IGO-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="d4ciYWOccWzurNr53IGO-39" target="d4ciYWOccWzurNr53IGO-30" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="d4ciYWOccWzurNr53IGO-39" value="csvファイルを書き込む" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="d4ciYWOccWzurNr53IGO-39" value="csvファイルを書き込む" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="280" y="540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CB12Wec0NSiDcRl1hhvv-1" value="終了ボタン" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="740" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
