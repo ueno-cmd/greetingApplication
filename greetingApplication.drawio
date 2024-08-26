@@ -55,26 +55,22 @@
         <mxCell id="T0kuwapabYehDYUXyM-M-4" value="ループ開始&lt;div&gt;CSVファイルに参加者情報を更新する&lt;br&gt;&lt;/div&gt;" style="shape=loopLimit;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="359" y="120" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="T0kuwapabYehDYUXyM-M-35" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="T0kuwapabYehDYUXyM-M-5" target="T0kuwapabYehDYUXyM-M-9">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="T0kuwapabYehDYUXyM-M-5" value="ループ終了" style="shape=loopLimit;whiteSpace=wrap;html=1;rotation=0;direction=west;" vertex="1" parent="1">
           <mxGeometry x="359" y="950" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="T0kuwapabYehDYUXyM-M-9" value="終了" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="361" y="1040" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="T0kuwapabYehDYUXyM-M-10" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.992;exitY=0.38;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;elbow=vertical;" edge="1" parent="1" source="d4ciYWOccWzurNr53IGO-2" target="d4ciYWOccWzurNr53IGO-30">
+        <mxCell id="T0kuwapabYehDYUXyM-M-10" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.992;exitY=0.38;exitDx=0;exitDy=0;exitPerimeter=0;edgeStyle=elbowEdgeStyle;" edge="1" parent="1" source="d4ciYWOccWzurNr53IGO-2" target="T0kuwapabYehDYUXyM-M-9">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="550" y="289.5" as="sourcePoint" />
             <mxPoint x="650" y="289.5" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="560" y="43" />
-              <mxPoint x="560" y="870" />
+              <mxPoint x="580" y="560" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="T0kuwapabYehDYUXyM-M-11" value="Label" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="T0kuwapabYehDYUXyM-M-10">
+        <mxCell id="T0kuwapabYehDYUXyM-M-11" value="終了ボタンを押す" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="T0kuwapabYehDYUXyM-M-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="T0kuwapabYehDYUXyM-M-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="T0kuwapabYehDYUXyM-M-14" target="T0kuwapabYehDYUXyM-M-16">
@@ -131,6 +127,15 @@
         </mxCell>
         <mxCell id="T0kuwapabYehDYUXyM-M-32" value="CSVファイル書き込み" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="361" y="740" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="T0kuwapabYehDYUXyM-M-36" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="1" source="T0kuwapabYehDYUXyM-M-5" target="T0kuwapabYehDYUXyM-M-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="490" y="970" as="sourcePoint" />
+            <mxPoint x="590" y="970" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="T0kuwapabYehDYUXyM-M-37" value="終了ボタンを押す" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="T0kuwapabYehDYUXyM-M-36">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
